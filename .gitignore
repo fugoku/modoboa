@@ -34,3 +34,6 @@ test_project/modoboa.db
 .ash_history
 modoboa.kdev4
 .kateproject
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
